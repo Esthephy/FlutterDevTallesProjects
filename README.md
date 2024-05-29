@@ -1,2 +1,2 @@
-# FlutterDevTallesProjects
-Proyectos sencillos comenzando en flutter
+# FlutterProjects
+Simple projects starting in flutter
